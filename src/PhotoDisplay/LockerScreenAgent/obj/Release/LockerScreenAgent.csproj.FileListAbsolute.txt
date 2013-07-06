@@ -1,0 +1,8 @@
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\LockScreenT3\LockerScreenAgent\Bin\Release\LockerScreenAgent.dll
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\LockScreenT3\LockerScreenAgent\Bin\Release\LockerScreenAgent.pdb
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\LockScreenT3\LockerScreenAgent\obj\Release\LockerScreenAgent.dll
+C:\Users\Paul\Documents\Visual Studio 2012\Projects\LockScreenT3\LockerScreenAgent\obj\Release\LockerScreenAgent.pdb
+C:\Users\Erick\Downloads\LockScreenT3\LockScreenT3\LockerScreenAgent\Bin\Release\LockerScreenAgent.dll
+C:\Users\Erick\Downloads\LockScreenT3\LockScreenT3\LockerScreenAgent\Bin\Release\LockerScreenAgent.pdb
+C:\Users\Erick\Downloads\LockScreenT3\LockScreenT3\LockerScreenAgent\obj\Release\LockerScreenAgent.dll
+C:\Users\Erick\Downloads\LockScreenT3\LockScreenT3\LockerScreenAgent\obj\Release\LockerScreenAgent.pdb

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{a94bdfa6-583f-439f-962d-01c48f5a418a}" Title="Photo Display" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="FotoPantallaDev author" Description="Sample description" Publisher="FotoPantallaDev" PublisherID="{583aa2a3-1d9e-4bb4-a0a2-b29365812e9f}">
+    <IconPath IsRelative="true" IsResource="false">feature.camera.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="Views/MainPage.xaml" />
+      <ExtendedTask Name="BackgroundTask">
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="LockerScreenAgent" Source="LockerScreenAgent" Type="LockerScreenAgent.ScheduledAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="FotoPantallaDevToken" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">check.png</SmallImageURI>
+          <Title></Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">favs.addto.png</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false"></Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false"></Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false"></Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false"></Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false"></Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false"></Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false"></Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false"></Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>false</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <Extensions>
+      <Extension ExtensionName="LockScreen_Background" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+      <Extension ExtensionName="LockScreen_Notification_IconCount" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+      <Extension ExtensionName="LockScreen_Notification_TextField" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+    </Extensions>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.0.9900 -->

@@ -1,0 +1,12 @@
+c:\users\paul\documents\visual studio 2012\Projects\LockScreenT3\LockerScreenAgent\Bin\Debug\LockerScreenAgent.dll
+c:\users\paul\documents\visual studio 2012\Projects\LockScreenT3\LockerScreenAgent\Bin\Debug\LockerScreenAgent.pdb
+c:\users\paul\documents\visual studio 2012\Projects\LockScreenT3\LockerScreenAgent\obj\Debug\LockerScreenAgent.dll
+c:\users\paul\documents\visual studio 2012\Projects\LockScreenT3\LockerScreenAgent\obj\Debug\LockerScreenAgent.pdb
+C:\Users\Erick\documents\visual studio 2012\Projects\FotoPantallaDev\LockerScreenAgent\Bin\Debug\LockerScreenAgent.dll
+C:\Users\Erick\documents\visual studio 2012\Projects\FotoPantallaDev\LockerScreenAgent\Bin\Debug\LockerScreenAgent.pdb
+C:\Users\Erick\documents\visual studio 2012\Projects\FotoPantallaDev\LockerScreenAgent\obj\Debug\LockerScreenAgent.dll
+C:\Users\Erick\documents\visual studio 2012\Projects\FotoPantallaDev\LockerScreenAgent\obj\Debug\LockerScreenAgent.pdb
+E:\Project Source\Diplomado WP8\Tarea#3\FotoPantallaDev\LockerScreenAgent\Bin\Debug\LockerScreenAgent.dll
+E:\Project Source\Diplomado WP8\Tarea#3\FotoPantallaDev\LockerScreenAgent\Bin\Debug\LockerScreenAgent.pdb
+E:\Project Source\Diplomado WP8\Tarea#3\FotoPantallaDev\LockerScreenAgent\obj\Debug\LockerScreenAgent.dll
+E:\Project Source\Diplomado WP8\Tarea#3\FotoPantallaDev\LockerScreenAgent\obj\Debug\LockerScreenAgent.pdb
